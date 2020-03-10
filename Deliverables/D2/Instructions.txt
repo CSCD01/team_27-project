@@ -1,0 +1,13 @@
+Intructions for implementing changes to code for D2:
+
+The following files must be placed in the following locations:
+	request_desktop_check_menu_item.xml
+		Must replace the file at:
+			C:\mozilla-mobile\focus-android\app\src\main\java\org\mozilla\focus\menu\browser
+
+	RequestDesktopCheckItemViewHolder.kt
+		Must replace the file at:
+			C:\mozilla-mobile\focus-android\app\src\main\res\layout
+
+
+
