@@ -8,11 +8,10 @@ The following files must be placed in the following locations:
 	RequestDesktopCheckItemViewHolder.kt
 		Must replace the file at:
 			C:\mozilla-mobile\focus-android\app\src\main\res\layout
+
 	TelemetryWrapper.kt
 		Must replace the file at:
 			focus-android\app\src\main\java\org\mozilla\focus\telemetry
-
-
 
 
 
