@@ -13,3 +13,7 @@ The following files must be placed in the following locations:
 			focus-android\app\src\main\java\org\mozilla\focus\telemetry
 
 
+
+
+
+Forked Repo for telemtrywrapper can be found at: https://github.com/hackermanone/focus-android
